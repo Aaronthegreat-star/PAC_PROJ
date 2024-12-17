@@ -1,2 +1,2 @@
-# PAC_PROJ
-This projects uses sentinel policy as code to make sure the right resources and exact configurations are in place before the before the plan suceeds
+# API_PROJ
+a simple api project that tells the current time when a pod is started up
